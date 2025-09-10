@@ -1,6 +1,5 @@
 # 4.1.1 Network Planning and Design
 This part outlines the proposed communication setup in detail.
-hello how are you
 | [Assumptions](#Presumptions) | [Network Architecture](#System-Layout) | [WiFi Design](#Wireless-Deployment) | [Address Allocations](#Address-Mapping) | [Recommended Equipment](#Hardware-Suggestions) | [Plan](./plan.md) | [Cloud Services](./cloud.md) | [Security](./security.md) | [Ethics](./ethics.md) | [Reflection](./reflection.md) | [Return to index](./README.md)
 
 
