@@ -27,12 +27,12 @@ Furthermore, the framework must support secure VPNs for mobile staff, encrypted 
 ![Network Design Diagram](images/Network_Arch.png)
 
 ### Major Design Considerations
-- Layout: Star configuration offers reliability, modular growth, and quick troubleshooting.
-- Defence: Security appliances ensure branch-to-HQ communication is filtered; DMZ separates external-facing systems.
-- Telework: VPN concentrators deliver protected remote connections.
-- Switching Strategy: Three-tier hierarchy (core, distribution, access) optimises performance and control.-
-- Wireless Backbone: 10Gbps Cat6a cabling with enterprise-grade APs ensures high throughput.
-- Resilience: HQ central devices incorporate redundant power and alternate uplinks to reduce downtime.
+  - Layout: Star configuration offers reliability, modular growth, and quick troubleshooting.
+  - Defence: Security appliances ensure branch-to-HQ communication is filtered; DMZ separates external-facing systems.
+  - Telework: VPN concentrators deliver protected remote connections.
+  - Switching Strategy: Three-tier hierarchy (core, distribution, access) optimises performance and control.
+  - Wireless Backbone: 10Gbps Cat6a cabling with enterprise-grade APs ensures high throughput.
+  - Resilience: HQ central devices incorporate redundant power and alternate uplinks to reduce downtime.
 
 This layered approach ensures flexibility, business continuity, and improved fault tolerance.
 
